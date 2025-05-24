@@ -126,3 +126,70 @@
 * न = not
 * सौख्यम् = comfort
 * आवहति = bear
+
+अथवा साध्विदमुच्यते -
+अजातमृतमूर्खेभ्यो मृताजातौ सुतौ वरम्।
+यतस्तौ स्वल्पदुःखाय यावज्जीवं जडो दहेत्॥4॥
+
+* अथवा = or
+* साधु = rightly
+* इदम् = this
+* उच्यते = is said
+* अजात-मृत-मूर्खेभ्यः = अजातेभ्यः वा मृतेभ्यः वा मूर्ख्येभ्यः वा => than unborn, dead or foolish ones
+* मृत-अजातौ सुतौ => मृतः सुतः, अजातः सुतः च = the dead son and the unborn son
+* वरम् = better
+* यतः = because
+* तौ = they both (dead son and unborn son)
+* स्वल्प-दुःखाय => स्वल्पाय दुःखाय = cause little grief
+* यावत्+जीवम् = all life
+* जडः = an unintelligent one
+* दहेत् = may burn
+
+वरं गर्भस्रावो वरमृतुषु नैवाभिगमनं वरं जातः प्रेतो वरमपि च कन्यैव जनिता।
+वरं वन्ध्या भार्या वरमपि च गर्भेषु वसतिर्न वाविद्वान् रूपद्रविणगुणयुक्तोऽपि तनयः॥5॥
+
+* वरम् = better
+* गर्भस्रावः = miscarriage
+* वरम् = better
+* ऋतुषु = in seasons 
+* न एव अभिगमनम् = not approaching(sexually) indeed
+* वरम् = better
+* जातः = born
+* प्रेतः = dead
+* वरम् = better
+* अपि = even
+* च = and
+* कन्या = maidne
+* एव = indeed
+* जनिता = produced
+* वरम् = better
+* वन्ध्या = barren
+* भार्या = wife
+* वरम् = better
+* अपि = even
+* च = and
+* गर्भेषु = in wombs
+* वसतिः = dwelling
+* न = not
+* वा = also
+* अविद्वान् = not a scholar
+* रूप-द्रविण-गुण-युक्तः अपि = even endowed with beauty, wealth, qualities
+* तनयः = son
+
+किं तया क्रियते धेन्वा या न सूते न दुग्धदा।
+कोಽर्थः पुत्रेण जातेन यो न विद्वान्न भक्तिमान्॥6॥
+
+* किम् = what
+* तया = with her(cow)
+* क्रियते = is done
+* धेन्वा = with the cow
+* या = which
+* न सूते = does not give birth
+* न दुग्ध-दा = not a giver of milk
+* कः = what
+* अर्थः = purpose
+* पुत्रेण = with son
+* जातेन = who is born
+* यः = who
+* न विद्वान् = not a scholar
+* न भक्तिमान् = not devoted
