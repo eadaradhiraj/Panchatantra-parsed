@@ -9,7 +9,7 @@
 *   इन्द्रः = Indra
 *   कुबेरः = Kubera
 *   चन्द्र-आदित्यौ = Moon and Sun
-*   सरस्वति-उदधि-युग-नगाः = Saraswati and oceans and Yugas and mountains
+*   सरस्वति-उदधि-युग-नगाः = Sara    swati and oceans and Yugas and mountains
 *   वायुः = Wind
 *   उर्वी-भुजङ्गाः = earth and serpents
 *   सिद्धाः = siddhas
@@ -210,3 +210,21 @@
 *   इव = lke
 *   लज्जते = is ashamed
 *   मनुजः = man
+
+गुणिगणगणनारम्भे न पतति कठिनी ससम्भ्रमाद्यस्य।
+तेनाम्बा यदि सुतिनी वद वन्ध्या कीदृशी भवति॥8॥
+
+*   गुणिगणगणनारम्भे => गुणिनः गणस्य गणनायाः आरम्भे = act of enumeration of the flock of meritorious people
+*   न = not
+*   पतति = falls
+*   कठिनी = little finger
+*   ससम्भ्रमात् = out of confusion
+*   यस्य = of one whom
+*   तेन = by which
+*   अम्बा =  mother
+*   यदि = if
+*   सुतिनी = begetter, having a child
+*   वद = tell
+*   वन्ध्या = barren, unproductive
+*   कीदृशी = of what kind, of what sort, of what nature 
+*   भवति = becomes
