@@ -228,3 +228,41 @@
 *   वन्ध्या = barren, unproductive
 *   कीदृशी = of what kind, of what sort, of what nature 
 *   भवति = becomes
+
+तदेतेषां यथा बुद्धिप्रकाशो भवति तथा कोप्युपायोऽनुष्ठीयताम्।
+
+*   तत् = therefore
+*   एतेषाम् = of these
+*   यथा = in such a way
+*   बुद्धि-प्रकाशः => बुद्धेः प्रकाशः = enlightenmen
+*   भवति = becomes
+*   तथा = that way
+*   कः = which
+*   अपि = ever
+*   उपायः = idea
+*   अनुष्ठीयताम् = should be implemented
+
+अत्र च मद्दत्तां वृत्तिं भुञ्जानानां पण्डितानां पञ्चशती तिष्ठति।
+
+*   अत्र = here
+*   च = and
+*   मत्-दत्ताम् => मया दत्ताम् = given by me
+*   वृत्तिम् = employment
+*   भुञ्जानानाम् = enjoying
+*   पण्डितानाम् = of the scholars
+*   पञ्चशती = 500
+*   तिष्ठति = are here
+
+ततो यथा मम मनोरथाः सिद्धिं यान्ति तथा अनुष्ठीयताम्" इति।
+
+*   ततः = therefore
+*   यथा = in which way
+*   मम = my 
+*   मनोरथाः = desires
+*   सिद्धिम् = accomplishment
+*   यान्ति = they go
+*   तथा = in that way
+*   अनुष्ठीयताम्" = let it be implemented
+*   इति = thus
+
+तत्रैकः प्रोवाच - "देव। द्वादशभिर्वर्षैर्व्याकरणं श्रूयते, ततो धर्मशास्त्रानि मन्वादीनि, अर्थशास्त्राणि चाणक्यादीनि, कामशास्त्राणि वात्स्यायनादीनि
